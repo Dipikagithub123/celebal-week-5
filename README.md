@@ -2,11 +2,9 @@
 
 ## Screenshots
 
-> **Tip:** Place your screenshots in the `screenshots/` folder. Example images below:
-
-![Main UI](screenshots/main.png)
-![Add/Edit Form](screenshots/form.png)
-![Items List](screenshots/items.png)
+![Main UI](/main.png)
+![Add/Edit Form](/form.png)
+![Items List](/items.png)
 
 ---
 
