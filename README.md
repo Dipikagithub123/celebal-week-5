@@ -193,18 +193,4 @@ All styles are in `public/styles.css` and use modern CSS features like:
 - Delete `node_modules` and `package-lock.json`
 - Run `npm install` again
 
-## Contributing
 
-Feel free to contribute to this project by:
-- Reporting bugs
-- Suggesting new features
-- Submitting pull requests
-- Improving documentation
-
-## License
-
-This project is open source and available under the MIT License.
-
----
-
-**Happy Coding! 🚀** 
